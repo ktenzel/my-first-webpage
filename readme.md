@@ -1,8 +1,8 @@
-# _{HTML CSS}_
+# _HTML CSS_
 
-#### _{creating a first website}, {11-13-17}_
+#### _creating a first website, 11-13-17_
 
-#### By _**{Kyle Tenzeldam $ Glen Buck}**_
+#### By _**Kyle Tenzeldam $ Glen Buck**_
 
 ## Epicodus intro website
 
